@@ -1,2 +1,3 @@
 # my-terraform-repo
-This repository is created using Terraform
+
+This repository is managed by Terraform.
